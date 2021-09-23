@@ -20,7 +20,7 @@
 
 
         <!-- Main Sidebar Container -->
-        !!! COPAS CODE 3.3X Part Sidebar !!!
+        <?php include('sidebar.php');?>
         <!-- /.Main Sidebar Container -->
 
 
