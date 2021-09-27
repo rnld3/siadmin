@@ -183,7 +183,7 @@
             <form method="POST" action="#" enctype="multipart/form-data">
             <div class="card">
               <div class="border-0 card-header">
-                <h3 class="card-title">Form Sederhana</h3>
+                <h3 class="card-title">Form Editor</h3>
               </div>
               <div class="card-body">
                 <textarea id="summernote">
