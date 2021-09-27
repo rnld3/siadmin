@@ -13,7 +13,7 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="pages/widgets.html" class="nav-link">
+            <a href="index.php" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Beranda
@@ -40,7 +40,7 @@
           </li>
           <li class="nav-header">CONTOH</li>
           <li class="nav-item">
-            <a href="pages/calendar.html" class="nav-link">
+            <a href="list.php" class="nav-link">
               <i class="nav-icon fas fa-university"></i>
               <p>
                 List Data Mahasiswa
@@ -48,7 +48,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="pages/gallery.html" class="nav-link">
+            <a href="form.php" class="nav-link">
               <i class="nav-icon fas fa-user-graduate"></i>
               <p>
                 Olah Data Mahasiswa
